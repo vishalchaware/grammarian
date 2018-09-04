@@ -1,0 +1,10 @@
+.Ubuntu {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+hr{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-width: 1px;
+  border-color: red;
+}
