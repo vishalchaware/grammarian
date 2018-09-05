@@ -2,6 +2,14 @@
   font-family: 'Ubuntu', sans-serif;
 }
 
+.pinky {
+	color:#a80f24;
+}
+
+.voilet {
+	color:#320fa8;
+}
+
 #intro hr{
   margin-top: 50px;
   margin-bottom: 50px;
