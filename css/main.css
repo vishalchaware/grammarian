@@ -2,9 +2,32 @@
   font-family: 'Ubuntu', sans-serif;
 }
 
-hr{
+#intro hr{
   margin-top: 50px;
   margin-bottom: 50px;
   border-width: 1px;
   border-color: red;
+}
+
+.alpha-6 {
+    opacity: .8;
+}
+
+#intro p {
+  font-family: 'Raleway', sans-serif;
+}
+
+#intro h1 {
+  font-family: 'Advent Pro', sans-serif;
+  font-weight: bold;
+}
+
+#intro h5 {
+  font-family: 'Nobile', sans-serif;
+  font-weight: bold;
+}
+
+#intro h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
