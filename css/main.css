@@ -28,6 +28,7 @@
 #intro h1 {
   font-family: 'Advent Pro', sans-serif;
   font-weight: bold;
+
 }
 
 #intro h5 {
@@ -38,4 +39,5 @@
 #intro h3{
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
+  color: #dc3545!important;
 }
